@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Henry\AndroidstudioProjects\ARDemos1\app\src\main\java\build\java\vuforia\Vuforia.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="65d210365ebcbcb3c5b93b6db0ca4126f6bcf46d">
+        <dex dex="C:\Users\Henry\AndroidstudioProjects\ARDemos1\app\build\intermediates\pre-dexed\debug\Vuforia-aeba6ed365e95157e117ce83a77b307d3640327a.jar" />
+    </item>
+
+</items>

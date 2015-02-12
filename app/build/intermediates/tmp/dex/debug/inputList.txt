@@ -1,0 +1,2 @@
+C:\Users\Henry\AndroidstudioProjects\ARDemos1\app\build\intermediates\classes\debug
+C:\Users\Henry\AndroidstudioProjects\ARDemos1\app\build\intermediates\pre-dexed\debug\Vuforia-aeba6ed365e95157e117ce83a77b307d3640327a.jar
